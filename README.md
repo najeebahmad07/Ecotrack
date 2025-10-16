@@ -107,6 +107,7 @@ http://localhost/EcoTrack
 🎉 EcoTrack is ready for logging your eco-habits!
 
 
+
 ---
 
 📁 Project Structure
